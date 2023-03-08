@@ -1,0 +1,41 @@
+.dining_container {
+	width: 100%;
+	min-height: 100vh;
+	background-color: #f1ede9;
+    background-image: linear-gradient(74deg, #f1ede9 37%, #9d9ba1 100%);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.dining_form_container {
+	width: 1000px;
+	height: 500px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 0px 3px 3px -2px rgb(0 0 0 / 20%),
+		0px 3px 4px 0px rgb(0 0 0 / 14%), 0px 1px 8px 0px rgb(0 0 0 / 12%);
+}
+.text{
+	justify-content: center;
+	padding-top: 5vh;
+	margin-right: 5vh;
+	margin-left: 5vh;
+}
+.text_col{
+	color: rgb(143, 104, 53);
+	justify-content: center;
+	padding-top: 5vh;
+	margin-right: 5vh;
+	margin-left: 5vh;
+}
+.right {
+	
+	align-items: center;
+	justify-content: center;
+	color: white;
+	background-color: #5d5d5d;
+background-image: linear-gradient(90deg, #5d5d5d 0%, #171616 100%);
+
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
