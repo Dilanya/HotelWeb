@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/HotelWeb/static/css/main.e595abfc.chunk.css",
+    "main.js": "/HotelWeb/static/js/main.caee54e8.chunk.js",
+    "main.js.map": "/HotelWeb/static/js/main.caee54e8.chunk.js.map",
+    "runtime-main.js": "/HotelWeb/static/js/runtime-main.3a700d9d.js",
+    "runtime-main.js.map": "/HotelWeb/static/js/runtime-main.3a700d9d.js.map",
+    "static/css/2.f6c057bd.chunk.css": "/HotelWeb/static/css/2.f6c057bd.chunk.css",
+    "static/js/2.64dbbd58.chunk.js": "/HotelWeb/static/js/2.64dbbd58.chunk.js",
+    "static/js/2.64dbbd58.chunk.js.map": "/HotelWeb/static/js/2.64dbbd58.chunk.js.map",
+    "index.html": "/HotelWeb/index.html",
+    "static/css/2.f6c057bd.chunk.css.map": "/HotelWeb/static/css/2.f6c057bd.chunk.css.map",
+    "static/css/main.e595abfc.chunk.css.map": "/HotelWeb/static/css/main.e595abfc.chunk.css.map",
+    "static/js/2.64dbbd58.chunk.js.LICENSE.txt": "/HotelWeb/static/js/2.64dbbd58.chunk.js.LICENSE.txt",
+    "static/media/DELUXE.301eee2b.jpg": "/HotelWeb/static/media/DELUXE.301eee2b.jpg",
+    "static/media/dining.104cf4da.jpg": "/HotelWeb/static/media/dining.104cf4da.jpg",
+    "static/media/dinning.78dc1cc9.jpg": "/HotelWeb/static/media/dinning.78dc1cc9.jpg",
+    "static/media/events.2cea58ae.jpg": "/HotelWeb/static/media/events.2cea58ae.jpg",
+    "static/media/events2.1b19622f.jpg": "/HotelWeb/static/media/events2.1b19622f.jpg",
+    "static/media/hotel6.ccfca378.png": "/HotelWeb/static/media/hotel6.ccfca378.png",
+    "static/media/luxury.ed12c283.jpg": "/HotelWeb/static/media/luxury.ed12c283.jpg",
+    "static/media/offer1.bdc584d3.jpg": "/HotelWeb/static/media/offer1.bdc584d3.jpg",
+    "static/media/offer2.3c545de4.jpg": "/HotelWeb/static/media/offer2.3c545de4.jpg",
+    "static/media/offer3.cf6d3e6e.jpg": "/HotelWeb/static/media/offer3.cf6d3e6e.jpg",
+    "static/media/services.20592a5c.jpg": "/HotelWeb/static/media/services.20592a5c.jpg",
+    "static/media/stay.7c77371e.jpg": "/HotelWeb/static/media/stay.7c77371e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a700d9d.js",
+    "static/css/2.f6c057bd.chunk.css",
+    "static/js/2.64dbbd58.chunk.js",
+    "static/css/main.e595abfc.chunk.css",
+    "static/js/main.caee54e8.chunk.js"
+  ]
+}
